@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# LaTeX intermediates
+*.aux
+*.log
+*.out
+
+# Large / regenerable artifacts
+MagicCompRules.pdf
+chunks.json
+
+# Never commit secrets
+.env
+*.key
+
+# Course materials (not deliverables)
+RAG_LMA_Assignment_v1.pdf
+RAG_Assignment_Implementation_Plan.md
